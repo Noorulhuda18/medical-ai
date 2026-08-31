@@ -1,4 +1,7 @@
+
 # MediGuide AI
+## 🚀 Live Demo
+https://medical-ai-m7ezktcfwy2s4ts6jghcqh.streamlit.app/
 
 An educational Streamlit + LangChain prototype that collects basic patient
 information and symptoms and returns structured, safety-first guidance from
