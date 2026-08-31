@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+.langchain_cache.db
+venv/
